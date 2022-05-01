@@ -2,6 +2,7 @@ Hi 👋 My name is Neha
 =====================
 
 * 🌍  I'm based in India
+* 🔭 I’m currently working at Infosys
 * ✉️  You can contact me at [neharathi1699@gmail.com](mailto:neharathi1699@gmail.com)
 
 ### Skills

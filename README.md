@@ -4,6 +4,7 @@ Hi 👋 My name is Neha
 * 🌍  I'm based in India
 * 🔭 I’m currently working at Infosys
 * ✉️  You can contact me at [neharathi1699@gmail.com](mailto:neharathi1699@gmail.com)
+* <p align="left"> <img src="https://komarev.com/ghpvc/?username=neharathig&label=Profile%20views&color=f24e07&style=plastic" alt="neharathig" /> </p>
 
 ### Skills
 

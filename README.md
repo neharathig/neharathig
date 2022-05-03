@@ -4,7 +4,7 @@ Hi 👋 My name is Neha
 * 🌍  I'm based in India
 * 🔭 I’m currently working at Infosys
 * ✉️  You can contact me at [neharathi1699@gmail.com](mailto:neharathi1699@gmail.com)
-* <p align="left"> <img src="https://komarev.com/ghpvc/?username=neharathig&label=Profile%20views&color=f24e07&style=plastic" alt="neharathig" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=neharathig&label=Profile%20views&color=0891b2&style=plastic" alt="neharathig" /> </p>
 
 ### Skills
 
@@ -32,3 +32,5 @@ Hi 👋 My name is Neha
 <a href="http://www.github.com/neharathig"><img src="https://github-readme-streak-stats.herokuapp.com/?user=neharathig&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/neharathig"><img src="https://activity-graph.herokuapp.com/graph?username=neharathig&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=neharathig&label=Profile%20views&color=0891b2&style=plastic" alt="neharathig" /> </p>

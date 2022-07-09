@@ -3,7 +3,7 @@ Hi 👋 Neha here !
 
 * 🌍  I'm based in India
 * 🔭 I’m currently working at Infosys
-* ✉️  You can contact me at [neharathi1699@gmail.com](mailto:neharathi1699@gmail.com)
+* ✉️  You can contact me on any social media platform. 
 
 ### Skills
 

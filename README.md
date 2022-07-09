@@ -1,4 +1,4 @@
-Hi 👋 Neha here !
+Hi, I am Neha! Great to see you here! 👋
 =====================
 
 * 🌍  I'm based in India

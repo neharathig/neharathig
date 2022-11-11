@@ -26,6 +26,8 @@ Hi, I am Neha! Great to see you here! 👋
 
 ### Badges
 
+[![@neharathig's Holopin board](https://holopin.me/neharathig)](https://holopin.io/@neharathig)
+
 <b>My GitHub Stats</b>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neharathig&label=Profile%20views&color=0891b2&style=plastic" alt="neharathig" /> </p>

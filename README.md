@@ -29,8 +29,9 @@ Hi, I am Neha! Great to see you here! 👋
 [![@neharathig's Holopin board](https://holopin.me/neharathig)](https://holopin.io/@neharathig)
 
 <b>My GitHub Stats</b>
-
+<!---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neharathig&label=Profile%20views&color=0891b2&style=plastic" alt="neharathig" /> </p>
+-->
 
 <a href="http://www.github.com/neharathig"><img src="https://github-readme-streak-stats.herokuapp.com/?user=neharathig&stroke=ffffff&background=1c1917&ring=FBB741&fire=eb7434&currStreakNum=ffffff&currStreakLabel=eb7434&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 

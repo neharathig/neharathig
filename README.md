@@ -36,3 +36,5 @@ Hi, I am Neha! Great to see you here! 👋
 <a href="http://www.github.com/neharathig"><img src="https://github-readme-streak-stats.herokuapp.com/?user=neharathig&stroke=ffffff&background=1c1917&ring=FBB741&fire=eb7434&currStreakNum=ffffff&currStreakLabel=eb7434&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/neharathig"><img src="https://activity-graph.herokuapp.com/graph?username=neharathig&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+[![Neha's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=neharathig&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)

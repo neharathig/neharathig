@@ -2,7 +2,7 @@ Hi, I am Neha! Great to see you here! 👋
 =====================
 
 * 🌍  I'm based in India
-* 🔭 I’m currently working at Infosys
+* 🔭 I’m currently working as Specialist Programmer (Power Programmer) at Infosys
 * ✉️  You can contact me on any social media platform. 
 
 ### Skills

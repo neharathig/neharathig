@@ -1,8 +1,12 @@
 Hi, I am Neha! Great to see you here! 👋
 =====================
-
-* 🌍  I'm based in India
+* 🥋 I'm very Passionate For Programming and Problem-Solving enthusiasts. I'm always ready to learn new things with Effective ideas.
+* 👨‍💻 Love to learn new technologies and to explore new sets of areas.
 * 🔭 I’m currently working as Specialist Programmer (Power Programmer) at Infosys
+* 📘 I’m Currently learning generative AI
+* 👯 I’m looking to collaborate on OpenSource Projects
+* 👀 I’m interested in engineering systems to build a better future
+* 🌍 based in India
 * ✉️  You can contact me on any social media platform. 
 
 ### Skills

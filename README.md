@@ -2,8 +2,6 @@ Hi, I am Neha! Great to see you here! 👋
 =====================
 * 🥋 I'm very Passionate For Programming and Problem-Solving enthusiasts. I'm always ready to learn new things with Effective ideas.
 * 👨‍💻 Love to learn new technologies and to explore new sets of areas.
-* 🔭 I’m currently working as Specialist Programmer (Power Programmer) at Infosys
-* 📘 I’m Currently learning generative AI
 * 👯 I’m looking to collaborate on OpenSource Projects
 * 👀 I’m interested in engineering systems to build a better future
 * 🌍 based in India
@@ -26,7 +24,7 @@ Hi, I am Neha! Great to see you here! 👋
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/neharathig" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/neharathig" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/neharathig" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/neharathig" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/neharathig" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/neharathig" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/neharathig" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
